@@ -28,7 +28,7 @@ try:
     print("Pinged your deployment. You successfully connected to MongoDB!")
 
     db = client.nosql
-    print("MongoDB Connected successfully!")
+    print("MongoDB Connected successfullyt!")
 except:
     print("Could not connect to MongoDB")
 
